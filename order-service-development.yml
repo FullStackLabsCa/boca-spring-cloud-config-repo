@@ -1,0 +1,14 @@
+name: order-service-67
+jdbc-config.host: localhost67
+jdbc-config.port: 5667
+jdbc-config.username: guest67
+jdbc-config.password: guest67
+
+## Configuring info endpoint
+info.app.name: Order-service client-app
+info.app.description: This is Order-service-app
+info.app.version: 1.0.0
+
+user.role: User
+user.password: user-password
+
