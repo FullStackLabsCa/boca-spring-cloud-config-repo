@@ -9,6 +9,6 @@ info.app.name: Order-service client-app
 info.app.description: This is Order-service-app
 info.app.version: 1.0.0
 
-user.password: prod-password-2
-user.role: Admin-2
+user.password: prod-password-3
+user.role: Admin-3
 
